@@ -1,0 +1,9 @@
+database:
+  host: localhost
+  port: 5432
+  user: postgres
+  password: password
+  dbname: money_transfer
+
+rabbitmq:
+  url: amqp://guest:guest@localhost:5672/
